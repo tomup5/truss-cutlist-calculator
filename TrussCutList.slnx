@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/TrussApi.Tests/TrussApi.Tests.csproj" />
+    <Project Path="backend/TrussApi/TrussApi.csproj" />
+  </Folder>
+</Solution>
